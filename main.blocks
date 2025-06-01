@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="z?SnyX3H.l}`@}y@`~Zw" x="-107" y="48"><statement name="HANDLER"><block type="device_show_number" id="~mZC3(oi2|ZB)ytN8?o~"><value name="number"><shadow type="math_number" id="}:l;J.Y9Dw2}V`:xjmi3"><field name="NUM">0</field></shadow><block type="device_temperature" id="@M3P0Po:ylck0$t?=vYK"></block></value></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="z?SnyX3H.l}`@}y@`~Zw" x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="~mZC3(oi2|ZB)ytN8?o~"><value name="number"><shadow type="math_number" id="}:l;J.Y9Dw2}V`:xjmi3"><field name="NUM">0</field></shadow><block type="device_temperature" id="@M3P0Po:ylck0$t?=vYK"></block></value><next><block type="device_show_leds" id=";~Q*=Y)Sv-N{CrETjiHN"><field name="LEDS">`
+        # . . # . 
+        . # # . . 
+        . . . . . 
+        # . # . # 
+        . . . . .
+        `</field></block></next></block></statement></block></xml>
